@@ -26,15 +26,15 @@ This tutorial is all about Humidity & Temperature Monitoring using DHT11 & NodeM
 
 ### ESP8266 Pin Out
 
-![[../Images-WS/Pasted image 20240925072929.png]]
+![[Images-WS/Pasted image 20240925072929.png]]
 
 ### DHT11 Humidity and Temperature Sensor
 
-![[Pasted image 20240925073053.png]]
+![[Images-WS/Pasted image 20240925073053.png]]
 
 ### Circuit Diagram
 
-![[Pasted image 20240925072533.png]]
+![[Images-WS/Pasted image 20240925072533.png]]
 
 
 ### Getting Started with Thingspeak
@@ -45,7 +45,7 @@ This tutorial is all about Humidity & Temperature Monitoring using DHT11 & NodeM
 3. Then go to API keys copy the 'Write API Key' and paste this key to a separate notepad file. You will need it later while programming.
 ### MQTT Protocol
 
-![[Pasted image 20240925080608.png]]
+![[Images-WS/Pasted image 20240925080608.png]]
 
 Visit this website to learn more -> https://mqtt.org/
 

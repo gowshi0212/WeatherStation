@@ -58,5 +58,7 @@ Visit this website to learn more -> https://mqtt.org/
 ### Coding Tasks
 
 Task 1: Connect the ESP8266 to Wifi
+
 Task 2: Try getting values from DHT11
+
 Task 3: Connect to thingspeak

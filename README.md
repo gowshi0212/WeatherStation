@@ -27,19 +27,19 @@ This tutorial is all about Humidity & Temperature Monitoring using DHT11 & NodeM
 ### ESP8266 Pin Out
 
 
-![ESP8266 PinOut](https://github.com/gowshi0212/WeatherStation/blob/ea62318ade5669902c9af51a25ee087e3645b278/Images-WS/Pasted%20image%2020240925072533.png)
+![ESP8266 PinOut](https://github.com/gowshi0212/WeatherStation/blob/ce0d975bee8f4204550cda13907ed7cda86d887a/Images-WS/Pasted%20image%2020240925072929.png)
 
 
 ### DHT11 Humidity and Temperature Sensor
 
 
-![DHT11 Pin Out](Images-WS/Pasted image 20240925073053.png)
+![DHT11 Pin Out](https://github.com/gowshi0212/WeatherStation/blob/ce0d975bee8f4204550cda13907ed7cda86d887a/Images-WS/Pasted%20image%2020240925073053.png)
 
 
 ### Circuit Diagram
 
 
-![Circuit Diagram](Images-WS/Pasted image 20240925072533.png)
+![Circuit Diagram](https://github.com/gowshi0212/WeatherStation/blob/ea62318ade5669902c9af51a25ee087e3645b278/Images-WS/Pasted%20image%2020240925072533.png)
 
 
 
@@ -51,7 +51,7 @@ This tutorial is all about Humidity & Temperature Monitoring using DHT11 & NodeM
 3. Then go to API keys copy the 'Write API Key' and paste this key to a separate notepad file. You will need it later while programming.
 ### MQTT Protocol
 
-![MQTT](Images-WS/Pasted image 20240925080608.png)
+![MQTT](https://github.com/gowshi0212/WeatherStation/blob/ce0d975bee8f4204550cda13907ed7cda86d887a/Images-WS/Pasted%20image%2020240925080608.png)
 
 Visit this website to learn more -> https://mqtt.org/
 

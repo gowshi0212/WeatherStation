@@ -1,4 +1,6 @@
-This tutorial is all about Humidity & Temperature Monitoring using DHT11 & NodeMCU on ThingSpeak. It explains how to log Humidity & Temperature data on the cloud. We can use Thingspeak as a cloud service provider and DHT11 to measure temperature and humidity.
+# DIY Weather Station
+
+This tutorial will guide you through setting up a system to measure and track humidity and temperature levels. You'll use the DHT11 sensor to gather data, the NodeMCU to process it, and ThingSpeak to store and visualize the information online.
 
 ## Hardware
 

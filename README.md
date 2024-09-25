@@ -26,7 +26,7 @@ This tutorial is all about Humidity & Temperature Monitoring using DHT11 & NodeM
 
 ### ESP8266 Pin Out
 
-![[Pasted image 20240925072929.png]]
+![[../Images-WS/Pasted image 20240925072929.png]]
 
 ### DHT11 Humidity and Temperature Sensor
 
